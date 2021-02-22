@@ -13,6 +13,9 @@
 		77D2829025E3D7D500FD0FF9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 77D2828E25E3D7D500FD0FF9 /* Main.storyboard */; };
 		77D2829225E3D7D600FD0FF9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 77D2829125E3D7D600FD0FF9 /* Assets.xcassets */; };
 		77D2829525E3D7D600FD0FF9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 77D2829325E3D7D600FD0FF9 /* LaunchScreen.storyboard */; };
+		77D2829E25E3F5E400FD0FF9 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77D2829D25E3F5E400FD0FF9 /* Constants.swift */; };
+		77D282A125E4020500FD0FF9 /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77D282A025E4020500FD0FF9 /* Video.swift */; };
+		77D282A425E4027900FD0FF9 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77D282A325E4027900FD0FF9 /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		77D2829125E3D7D600FD0FF9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		77D2829425E3D7D600FD0FF9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		77D2829625E3D7D600FD0FF9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		77D2829D25E3F5E400FD0FF9 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		77D282A025E4020500FD0FF9 /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
+		77D282A325E4027900FD0FF9 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +69,9 @@
 				77D2829125E3D7D600FD0FF9 /* Assets.xcassets */,
 				77D2829325E3D7D600FD0FF9 /* LaunchScreen.storyboard */,
 				77D2829625E3D7D600FD0FF9 /* Info.plist */,
+				77D2829D25E3F5E400FD0FF9 /* Constants.swift */,
+				77D282A025E4020500FD0FF9 /* Video.swift */,
+				77D282A325E4027900FD0FF9 /* Model.swift */,
 			);
 			path = "video-pocket";
 			sourceTree = "<group>";
@@ -140,6 +149,9 @@
 				77D2828D25E3D7D500FD0FF9 /* ViewController.swift in Sources */,
 				77D2828925E3D7D500FD0FF9 /* AppDelegate.swift in Sources */,
 				77D2828B25E3D7D500FD0FF9 /* SceneDelegate.swift in Sources */,
+				77D282A425E4027900FD0FF9 /* Model.swift in Sources */,
+				77D2829E25E3F5E400FD0FF9 /* Constants.swift in Sources */,
+				77D282A125E4020500FD0FF9 /* Video.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
