@@ -14,11 +14,11 @@ struct Video: Decodable {
     var thumbnail = ""
     var published = ""
     
-    enum <#name#> {
-        case <#case#>
-    }
-    
-    init(from decoder: Decoder) throws {
-        <#statements#>
-    }
+//    enum <#name#> {
+//        case <#case#>
+//    }
+//    
+//    init(from decoder: Decoder) throws {
+//        <#statements#>
+//    }
 }
