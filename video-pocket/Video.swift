@@ -7,10 +7,18 @@
 
 import Foundation
 
-struct Video {
+struct Video: Decodable {
     var videoId = ""
     var title = ""
     var description = ""
     var thumbnail = ""
     var published = ""
+    
+    enum <#name#> {
+        case <#case#>
+    }
+    
+    init(from decoder: Decoder) throws {
+        <#statements#>
+    }
 }

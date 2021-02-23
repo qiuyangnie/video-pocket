@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7717869F25E4FD0B00EFFB2A /* ConstantsTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7717869E25E4FD0B00EFFB2A /* ConstantsTemplate.swift */; };
 		77D2828925E3D7D500FD0FF9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77D2828825E3D7D500FD0FF9 /* AppDelegate.swift */; };
 		77D2828B25E3D7D500FD0FF9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77D2828A25E3D7D500FD0FF9 /* SceneDelegate.swift */; };
 		77D2828D25E3D7D500FD0FF9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77D2828C25E3D7D500FD0FF9 /* ViewController.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7717869E25E4FD0B00EFFB2A /* ConstantsTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstantsTemplate.swift; sourceTree = "<group>"; };
 		77D2828525E3D7D500FD0FF9 /* video-pocket.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "video-pocket.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		77D2828825E3D7D500FD0FF9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		77D2828A25E3D7D500FD0FF9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -70,6 +72,7 @@
 				77D2829325E3D7D600FD0FF9 /* LaunchScreen.storyboard */,
 				77D2829625E3D7D600FD0FF9 /* Info.plist */,
 				77D2829D25E3F5E400FD0FF9 /* Constants.swift */,
+				7717869E25E4FD0B00EFFB2A /* ConstantsTemplate.swift */,
 				77D282A025E4020500FD0FF9 /* Video.swift */,
 				77D282A325E4027900FD0FF9 /* Model.swift */,
 			);
@@ -146,6 +149,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7717869F25E4FD0B00EFFB2A /* ConstantsTemplate.swift in Sources */,
 				77D2828D25E3D7D500FD0FF9 /* ViewController.swift in Sources */,
 				77D2828925E3D7D500FD0FF9 /* AppDelegate.swift in Sources */,
 				77D2828B25E3D7D500FD0FF9 /* SceneDelegate.swift in Sources */,
